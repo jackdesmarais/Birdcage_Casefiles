@@ -1,0 +1,67 @@
+title: Birdcage Casefiles
+description: A website to track the progress of our birdcage campaign
+theme: just-the-docs
+
+url: https://jackdesmarais.github.io/Birdcage_Casefiles/
+
+aux_links:
+  Template Repository: https://github.com/jackdesmarais/Birdcage_Casefiles
+
+collections:
+  factions:
+    permalink: "/:collection/:path.html"
+    output: true
+  locations:
+    permalink: "/:collection/:path.html"
+    output: true
+  NPCs:
+    permalink: "/:collection/:path.html"
+    output: true
+  PCs:
+    permalink: "/:collection/:path.html"
+    output: true
+  session_notes:
+    permalink: "/:collection/:path.html"
+    output: true
+  items:
+    permalink: "/:collection/:path.html"
+    output: true
+
+just_the_docs:
+  collections:
+    factions:
+      name: Factions
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    locations:
+      name: Locations
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    NPCs:
+      name: NPCs
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    PCs:
+      name: PCs
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    session_notes:
+      name: Session Notes
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+    items:
+      name: Items
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page."
+gh_edit_repository: "https://github.com/jackdesmarais/Birdcage_Casefiles"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
