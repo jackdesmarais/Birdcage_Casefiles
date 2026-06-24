@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% if page.status %}
+> **Status:** {{ page.status }}
+{% endif %}
+
 {{ content }}
 
 {% capture pc_content %}
