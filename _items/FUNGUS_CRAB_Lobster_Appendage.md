@@ -15,7 +15,7 @@ Operate with Occult, lethality 25%. requires 1 human fresh human tooth per day o
 
 ## History
 
-Used by [SHALIMAR](/Birdcage_Casefiles/PCs/Patricia_Gomez.html) during the pursuit following [Operation Minimalism](/Birdcage_Casefiles/session_notes/DG_Casefiles/2026_05_31_Minimalism1.html) to eliminate two [Kuoleman Enkelit](/Birdcage_Casefiles/factions/Kuoleman_Enkelit.html) bikers who had mounted the team's vehicle.
+Used by [SHALIMAR](/Birdcage_Casefiles/PCs/Patricia_Gomez.html) during the pursuit following [Operation Minimalism](/Birdcage_Casefiles/session_notes/DG_Casefiles/2026_05_31_Minimalism1.html) to eliminate two [Kuoleman Enkelit](/Birdcage_Casefiles/factions/Kuoleman_Enkelit.html) bikers who were persuing the team's vehicle.
 
 ## Status
 
