@@ -86,9 +86,13 @@ aliases:
 
 **Armor:** None
 
-## Special Ability — Probabilistic Ritual
+## Special Ability — [Probabilistic Ritual](/Birdcage_Casefiles/magic/Rituals/Probabilistic_Ritual.html)
 
 You know a mathematical formula which grants you limited knowledge of a future event. On a successful ritual activation, spend 6 WP and D4 SAN, then roll a D100 and record the value. For INT hours after activating the ritual, you may replace the result of a single D100 roll with the recorded number — before or after rolling. Doing so incurs a further 0/D4 SAN loss from Helplessness, as the deterministic nature of the universe is made painfully clear to you.
+
+## Learned Ritual — [The Song of Tuonetar](/Birdcage_Casefiles/magic/Rituals/The_Song_of_Tuonetar.html)
+
+An elaborate proto-Uralic chant to Tuonetar, goddess of death, learned by bootstrapping a translation of the [Hymnal of Tuonetar](/Birdcage_Casefiles/items/Hymnal_of_Tuonetar.html) during [Operation Minimalism](/Birdcage_Casefiles/session_notes/DG_Casefiles/2026_05_31_Minimalism1.html). To activate, spend one minute chanting, 9 WP, and 1D4 SAN. While the chant continues, no one within earshot when it began can die. Any non-self-inflicted damage you take triggers a SAN roll — on a failure, take no physical damage but take an equivalent amount as SAN damage instead. If your HP reaches zero, you immediately rise as a wight: STR and CON raise to 24 and HP restores to full. Roll POW; on a failure you begin rotting, losing 1 INT and 1 CHA per day. In either outcome you die instantly if the chant stops, can no longer heal naturally, and cannot rise again. All temporary breaks while under this effect produce fight responses.
 
 ## Background
 
