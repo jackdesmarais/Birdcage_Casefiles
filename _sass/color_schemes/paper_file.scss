@@ -1,0 +1,55 @@
+// Paper File color scheme — aged government document aesthetic
+
+$body-background-color: #f5f0e8;
+$sidebar-color: #c8b99a;
+$body-text-color: #2d2a24;
+$nav-child-link-color: #2d2a24;
+$link-color: #2a4a6b;
+$link-color-visited: #4a2a6b;
+$btn-primary-color: #8b1a1a;
+$base-button-color: #c8b99a;
+$code-background-color: #e8e3d8;
+$feedback-color: darken($body-background-color, 5%);
+$border-color: #b5a898;
+$table-background-color: #ede8d8;
+$search-background-color: #ede8d8;
+$nav-width: 264px;
+
+// Headings in stamp red
+h1, h2, h3, h4, h5, h6 {
+  color: #8b1a1a;
+}
+
+// Sidebar text
+.side-bar {
+  border-right: 1px solid #b5a898;
+}
+
+// Nav links in sidebar
+.nav-list .nav-list-item .nav-list-link {
+  color: #2d2a24;
+  &:hover {
+    color: #8b1a1a;
+  }
+  &.active {
+    color: #8b1a1a;
+    font-weight: bold;
+  }
+}
+
+// Main content area subtle texture via border
+.main-content {
+  border-left: 1px solid #b5a898;
+}
+
+// Table headers
+table th {
+  background-color: #c8b99a;
+  color: #2d2a24;
+}
+
+// Blockquotes — like a stamped annotation
+blockquote {
+  border-left: 3px solid #8b1a1a;
+  color: #5a4a3a;
+}
