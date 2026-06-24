@@ -3,7 +3,10 @@ layout: default
 ---
 
 {% if page.status %}
+{% capture status_block %}
 > **Status:** {{ page.status }}
+{% endcapture %}
+{{ status_block | markdownify }}
 {% endif %}
 
 {{ content }}
