@@ -11,7 +11,7 @@ The Birdcage is a city with a troubled history: paramilitary factions, political
 
 ## The Organizations
 
-**[City Living History Association](/Birdcage_Casefiles/factions/City_Living_History_Association.html)** — A time-travel agency operating under the cover of a community history group. Sends agents on historical correction missions framed as expanding their "target audience."
+**[City Living History Association](/Birdcage_Casefiles/factions/City_Living_History_Association.html)** — A Living History Association that puts on exhibits about the history of the city. In order to inncrease "attendence" at their "events" they send agents into the past to "improve audience compatibility".
 
 **[Troop 27756](/Birdcage_Casefiles/factions/Troop_27756.html)** — A boy scout troop that runs Covert Historical Action merit badge missions, sending teenage agents back in time to alter the record.
 
